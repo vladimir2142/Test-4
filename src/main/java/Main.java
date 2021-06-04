@@ -46,7 +46,7 @@ System.out.println(Final_String);
         for (int i=0;i<dir_list.size();i++){
             String adress=dir_list.get(i).toString();
             Old_main(adress,str);
-           System.out.println(i);
+          // System.out.println(i);
         }
     }
 
